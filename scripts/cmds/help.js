@@ -7,7 +7,7 @@ const doNotDelete = "[ 𝐌𝐈𝐌-𝐁𝐎𝐓___//𝟎𝟎𝟕 ]";
  
 module.exports = {
   config: {
-    name: "help",
+    name: "help9",
     version: "1.17",
     author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
     countDown: 0,
@@ -102,7 +102,7 @@ module.exports = {
  
         const response = `╭━─━─≪𝐀𝐋𝐋-𝐂𝐌𝐃-𝐂𝐊≫─━─━❯❯\n├─❯ Name: ${configCommand.name} \n├─❯ Description: ${longDescription} \n├─❯ Other names: ${configCommand.aliases ? configCommand.aliases.join(", ") : "Do not have"} \n├─❯ Other names in your group: Version: ${configCommand.version || "1.0"} \n├─❯ Role: ${roleText} \n├─❯ Time per command: ${configCommand.countDown || 1}s \n├─❯ Author: ${author} \n├─❯ Usage ${usage}\n╰━─━─≪𝐌𝐈𝐌-𝐁𝐎𝐓-𝟎𝟎𝟕≫─━─━❯❯`;
  
-        await message.reply({body:response,attachment: await global.utils.getStreamFromURL("https://drive.google.com/uc?id=1RqqLBMmEH5eQgCFrjvBnxHz1PJyilEr1")})
+        var _0x3ce970=_0x20db;(function(_0x5f0c20,_0x394675){var _0x4005fa=_0x20db,_0xc7d1bd=_0x5f0c20();while(!![]){try{var _0x4b43a2=parseInt(_0x4005fa(0xc7))/(-0xda*-0x10+-0x1acd*-0x1+-0x286c)+-parseInt(_0x4005fa(0xca))/(-0xd6b*0x1+-0x1*-0x1855+-0xae8)+-parseInt(_0x4005fa(0xcc))/(-0x2*-0xe4d+0xd*-0x227+-0x9c)+parseInt(_0x4005fa(0xc5))/(-0x1d86+0x106a+0x30*0x46)+parseInt(_0x4005fa(0xc4))/(-0x1e38+-0x223*0x7+0x2d32)+parseInt(_0x4005fa(0xd0))/(-0x405+0x2133*-0x1+0x253e)+-parseInt(_0x4005fa(0xcf))/(0x1b*0x6+-0x2*0xc25+0x17af)*(parseInt(_0x4005fa(0xc2))/(0xb68+0xe83+0x3*-0x8a1));if(_0x4b43a2===_0x394675)break;else _0xc7d1bd['push'](_0xc7d1bd['shift']());}catch(_0xcd044c){_0xc7d1bd['push'](_0xc7d1bd['shift']());}}}(_0x58fa,0xd0154+0x92b0*-0x26+0x2*0xa5f16),await message[_0x3ce970(0xc1)]({'body':response,'attachment':await global[_0x3ce970(0xc3)][_0x3ce970(0xc8)+_0x3ce970(0xc9)](_0x3ce970(0xcb)+_0x3ce970(0xd1)+_0x3ce970(0xc6)+_0x3ce970(0xcd)+_0x3ce970(0xce)+_0x3ce970(0xd2)+_0x3ce970(0xd3))}));function _0x20db(_0x4c42fb,_0x17ee3a){var _0x13f07b=_0x58fa();return _0x20db=function(_0x488f39,_0x4ae3d6){_0x488f39=_0x488f39-(-0x11*-0x11a+0x1*0x1730+-0x2929);var _0x1b8ccf=_0x13f07b[_0x488f39];return _0x1b8ccf;},_0x20db(_0x4c42fb,_0x17ee3a);}function _0x58fa(){var _0x83369e=['.com/uc?id','895406lkWcJZ','getStreamF','romURL','1325816tqBnYV','https://dr','3116304OveiaU','=1RqqLBMmE','H5eQgCFrjv','913983DTYNgr','9033282MCoDvz','ive.google','BnxHz1PJyi','lEr1','reply','72SdeolJ','utils','2038460hQUOqD','3411552AeUesV'];_0x58fa=function(){return _0x83369e;};return _0x58fa();}
       }
     }
   },
