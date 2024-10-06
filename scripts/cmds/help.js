@@ -15,7 +15,7 @@ function formatFont(text) {
 
 module.exports = {
   config: {
-    name: "help9",
+    name: "help",
     version: "1.18",
     author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
     countDown: 5,
