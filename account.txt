@@ -1,3 +1,92 @@
-Remove all text add your fbstate 
-
-Bot modified Mohammad Badol
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100033281991978%22%3A%224TjLFi4E%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.806Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "sb",
+        "value": "lOKVZruOnv83ty6koqsXpjFG",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "datr",
+        "value": "6OIMZ7gJfb5xTMNe7nqVKi5B",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x670",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100073284455766",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "fr",
+        "value": "0YAIVZG6nn3vGOXfo.AWXZ20pxgMsMxy2LHAIZL64Xfio.BmqfG7..AAA.0.0.BnDOPK.AWXMl5TvDM0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "xs",
+        "value": "29%3AZGQri6FqRto_zg%3A2%3A1728897995%3A-1%3A5327",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2647%3Btimestamp%3A1728897998",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-14T09:26:55.841Z",
+        "lastAccessed": "2024-10-14T09:26:55.841Z"
+    }
+]
